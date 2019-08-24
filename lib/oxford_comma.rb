@@ -1,6 +1,7 @@
 def oxford_comma(array)
-if array <= 
-  array
+if array = Name1
+  return Name1
+elsif array 
 end
 
 
