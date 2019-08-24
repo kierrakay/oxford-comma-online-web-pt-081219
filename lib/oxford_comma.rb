@@ -1,3 +1,4 @@
 def oxford_comma(array)
-return array.first
+  final_array = []
+return array.first ('and')
 end
