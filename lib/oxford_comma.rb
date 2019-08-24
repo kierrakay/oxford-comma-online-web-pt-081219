@@ -1,6 +1,6 @@
 def oxford_comma(array)
   results = []
-return array.first do |string|
+return array do |string|
 results.split('and')
 end
 results
