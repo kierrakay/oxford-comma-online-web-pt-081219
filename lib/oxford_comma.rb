@@ -1,4 +1,3 @@
 def oxford_comma(array)
-  results = [w]
-return array
+return array.first
 end
