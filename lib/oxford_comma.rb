@@ -1,4 +1,4 @@
 def oxford_comma(array)
-  final_array = []
+  results = []
 return array.first ('and')
 end
