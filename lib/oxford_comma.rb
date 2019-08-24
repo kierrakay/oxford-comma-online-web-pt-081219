@@ -1,3 +1,3 @@
 def oxford_comma(array)
-return array.length
+return array []
 end
