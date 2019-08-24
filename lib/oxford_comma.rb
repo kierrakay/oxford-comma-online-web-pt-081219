@@ -4,6 +4,6 @@ def oxford_comma(array)
     elsif array.length == 2
       return "#{array[0]} and #{array[1]}"
     elsif array.length > 2 
-      return  "Name1, name2, ..., and . Namen"
+      return  "#{array[0]}, #{array[1]}, and #{array[2]}"
     end
 end 
